@@ -2662,9 +2662,10 @@
   version "0.0.39"
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-0.0.39.tgz#e177e699ee1b8c22d23174caaa7422644389509f"
 
-"@types/etag@1.8.0":
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/@types/etag/-/etag-1.8.0.tgz#37f0b1f3ea46da7ae319bbedb607e375b4c99f7e"
+"@types/etag@1.8.3":
+  version "1.8.3"
+  resolved "https://nexus.core.cvent.org/nexus/repository/npm-public/@types/etag/-/etag-1.8.3.tgz#0321c878a1ac1069131e4d90deab06db5ea2a0db"
+  integrity sha512-QYHv9Yeh1ZYSMPQOoxY4XC4F1r+xRUiAriB303F4G6uBsT3KKX60DjiogvVv+2VISVDuJhcIzMdbjT+Bm938QQ==
   dependencies:
     "@types/node" "*"
 
