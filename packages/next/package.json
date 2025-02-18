@@ -143,7 +143,7 @@
     "@types/json5": "0.0.30",
     "@types/jsonwebtoken": "8.3.7",
     "@types/lodash.curry": "4.1.6",
-    "@types/lru-cache": "5.1.0",
+    "@types/lru-cache": "5.1.1",
     "@types/nanoid": "2.0.0",
     "@types/node-fetch": "2.3.4",
     "@types/path-to-regexp": "1.7.0",
