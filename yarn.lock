@@ -2521,9 +2521,10 @@
   dependencies:
     chokidar "^1.7.0"
 
-"@types/amphtml-validator@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@types/amphtml-validator/-/amphtml-validator-1.0.0.tgz#9d4e0c879642938bbe5f363d49cafc8ae9f57c81"
+"@types/amphtml-validator@1.0.4":
+  version "1.0.4"
+  resolved "https://nexus.core.cvent.org/nexus/repository/npm-public/@types/amphtml-validator/-/amphtml-validator-1.0.4.tgz#ec0d28940d14372483cc6bfd465254b1f5599ffc"
+  integrity sha512-rmXCaF4sDVh8zDny5mbMxZntDBXwa9jcBwWqEVRrxP+JIjMuEDlO3P5aLKGOXf5XSs4MoUh+RmmdvmTZSN5IIA==
   dependencies:
     "@types/node" "*"
 
@@ -3369,22 +3370,14 @@ amdefine@>=0.0.4:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
 
-amphtml-validator@1.0.30:
-  version "1.0.30"
-  resolved "https://registry.yarnpkg.com/amphtml-validator/-/amphtml-validator-1.0.30.tgz#b722ea5e965d0cc028cbdc360fc76b97e669715e"
+amphtml-validator@1.0.38:
+  version "1.0.38"
+  resolved "https://nexus.core.cvent.org/nexus/repository/npm-public/amphtml-validator/-/amphtml-validator-1.0.38.tgz#36bef60fa6ce66250666dd37b94a3d0b5a0c4d25"
+  integrity sha512-TqGeHVRUEsMiJoaRvMhzZBv8oljLhhJgzkaPX/zT2eJFG5FLeaMehd6riNwsuMmi9e/5xsI0pocbTgN/u2sonQ==
   dependencies:
-    colors "1.2.5"
-    commander "2.15.1"
-    promise "8.0.1"
-
-amphtml-validator@1.0.31:
-  version "1.0.31"
-  resolved "https://registry.yarnpkg.com/amphtml-validator/-/amphtml-validator-1.0.31.tgz#cf926ad4bbefd720b4cbeef6221f794f35849ac6"
-  integrity sha512-GEVZeUJqm2ssLLrERi3Zeyk6TEQlvMGRxKqkgQMt2IvyYiGEWLbwp5K6UfX6cD9aCc1xqbk9n+rDBi4HZv3uOQ==
-  dependencies:
-    colors "1.2.5"
-    commander "2.15.1"
-    promise "8.0.1"
+    colors "1.4.0"
+    commander "12.0.0"
+    promise "8.3.0"
 
 anser@1.4.9:
   version "1.4.9"
@@ -3571,9 +3564,10 @@ arrify@^1.0.0, arrify@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/arrify/-/arrify-1.0.1.tgz#898508da2226f380df904728456849c1501a4b0d"
 
-asap@^2.0.0, asap@~2.0.3:
+asap@^2.0.0, asap@~2.0.6:
   version "2.0.6"
-  resolved "https://registry.yarnpkg.com/asap/-/asap-2.0.6.tgz#e50347611d7e690943208bbdafebcbc2fb866d46"
+  resolved "https://nexus.core.cvent.org/nexus/repository/npm-public/asap/-/asap-2.0.6.tgz#e50347611d7e690943208bbdafebcbc2fb866d46"
+  integrity sha512-BSHWgDSAiKs50o2Re8ppvp3seVHXSRM44cdSsT9FfNEUUZLOGWVCsiWaRPWM1Znn+mqZ1OfVZ3z3DWEzSp7hRA==
 
 asn1.js@^4.0.0:
   version "4.10.1"
@@ -4905,9 +4899,10 @@ colormin@^1.0.5:
     css-color-names "0.0.4"
     has "^1.0.1"
 
-colors@1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/colors/-/colors-1.2.5.tgz#89c7ad9a374bc030df8013241f68136ed8835afc"
+colors@1.4.0:
+  version "1.4.0"
+  resolved "https://nexus.core.cvent.org/nexus/repository/npm-public/colors/-/colors-1.4.0.tgz#c50491479d4c1bdaed2c9ced32cf7c7dc2360f78"
+  integrity sha512-a+UqTh4kgZg/SlGvfbzDHpgRu7AAQOmmqRHJnxhRZICKFUT91brVhNNt58CMWU9PsBbv3PDCZUHbVxuDiH2mtA==
 
 colors@~1.1.2:
   version "1.1.2"
@@ -4926,9 +4921,10 @@ combined-stream@^1.0.6, combined-stream@~1.0.6:
   dependencies:
     delayed-stream "~1.0.0"
 
-commander@2.15.1:
-  version "2.15.1"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-2.15.1.tgz#df46e867d0fc2aec66a34662b406a9ccafff5b0f"
+commander@12.0.0:
+  version "12.0.0"
+  resolved "https://nexus.core.cvent.org/nexus/repository/npm-public/commander/-/commander-12.0.0.tgz#b929db6df8546080adfd004ab215ed48cf6f2592"
+  integrity sha512-MwVNWlYjDTtOjX5PiD7o5pK0UrFU/OYgcJfjjK4RaHZETNtjJqrZa9Y9ds88+A+f+d5lv+561eZ+yCKoS3gbAA==
 
 commander@2.20.0:
   version "2.20.0"
@@ -12926,11 +12922,12 @@ promise.series@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/promise.series/-/promise.series-0.2.0.tgz#2cc7ebe959fc3a6619c04ab4dbdc9e452d864bbd"
 
-promise@8.0.1:
-  version "8.0.1"
-  resolved "https://registry.yarnpkg.com/promise/-/promise-8.0.1.tgz#e45d68b00a17647b6da711bf85ed6ed47208f450"
+promise@8.3.0:
+  version "8.3.0"
+  resolved "https://nexus.core.cvent.org/nexus/repository/npm-public/promise/-/promise-8.3.0.tgz#8cb333d1edeb61ef23869fbb8a4ea0279ab60e0a"
+  integrity sha512-rZPNPKTOYVNEEKFaq1HqTgOwZD+4/YHS5ukLzQCypkj+OkYx7iv0mA91lJlpPPZ8vMau3IIGj5Qlwrx+8iiSmg==
   dependencies:
-    asap "~2.0.3"
+    asap "~2.0.6"
 
 prompts@2.1.0:
   version "2.1.0"
