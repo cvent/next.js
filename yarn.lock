@@ -2534,9 +2534,10 @@
   dependencies:
     "@types/retry" "*"
 
-"@types/babel__code-frame@7.0.1":
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/@types/babel__code-frame/-/babel__code-frame-7.0.1.tgz#baf2529c4abbfb5e4008c845efcfe39a187e2f99"
+"@types/babel__code-frame@7.27.0":
+  version "7.27.0"
+  resolved "https://nexus.core.cvent.org/nexus/repository/npm-public/@types/babel__code-frame/-/babel__code-frame-7.27.0.tgz#4799f597ec9e7bbdd39e1374f43423742dcffa99"
+  integrity sha512-Dwlo+LrxDx/0SpfmJ/BKveHf7QXWvLBLc+x03l5sbzykj3oB9nHygCpSECF1a+s+QIxbghe+KHqC90vGtxLRAA==
 
 "@types/babel__core@7.1.7", "@types/babel__core@^7.1.7":
   version "7.1.7"
